@@ -1,6 +1,6 @@
 # v13-alarm
 
-Bitirilememiş bir proje bazı kişiler yüzünden :)
+Bitirilememiş bir proje bir kişi yüzünden :)
 
 Geliştirmeye açık bir proje isteyen kendine bir şeyler katabilir. Geliştirip paylaşmayı düşünürseniz. Ben yaptım demediğiniz sürece geliştirip paylaşmanız hiç bir sorun yaratmaz ^^
 
