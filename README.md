@@ -10,3 +10,5 @@ Tabi ki slash da var.
 ![image](https://user-images.githubusercontent.com/79569914/160439703-44cdd5bc-28c8-4921-b663-18b78d5f5bd8.png)
 
 Star atmayı unutmayın 🌟
+
+![](https://komarev.com/ghpvc/?username=respect0&color=dc143c)
