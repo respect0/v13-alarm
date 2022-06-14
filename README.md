@@ -1,7 +1,5 @@
 # v13-alarm
 
-Bitirilememiş bir proje bir kişi yüzünden :)
-
 Geliştirmeye açık bir proje isteyen kendine bir şeyler katabilir. Geliştirip paylaşmayı düşünürseniz. Ben yaptım demediğiniz sürece geliştirip paylaşmanız hiç bir sorun yaratmaz ^^
 
 Aynı zamanda bende projeyi geliştirmeye devam edip v14 özelliklerinden olan modal kullanımı ile tekrar güncelleyeceğim.
